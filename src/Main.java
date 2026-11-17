@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("=== SISTEMA DE GESTIÓN v1.0 ===");
-
+        String estadoModulo = "Módulo de Login Activado por Alumno A";
         // ZONA DE MÓDULOS
         String estadoModulo = "Sin módulos activos";
         System.out.println("Estado: " + estadoModulo);
